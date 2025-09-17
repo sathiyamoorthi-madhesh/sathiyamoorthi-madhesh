@@ -13,7 +13,7 @@
 ---
 
 ### 🔧 Tech Stack & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -43,18 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sathya033&show_icons=true&theme=radical" alt="Sathya's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathya033&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<!-- Modern Top Languages Card -->
-<div align="center">
-  <h2>🌐 Most Used Languages</h2>
-  <a href="https://github.com/sathya033">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathya033&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFFFFF" 
-      alt="Top Languages" 
-      style="border-radius: 12px; box-shadow: 0 4px 24px rgba(255,97,166,0.15); margin: 16px 0;"
-    />
-  </a>
-</div>
 
 ### 🌐 Connect With Me
 <p>
