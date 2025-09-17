@@ -31,9 +31,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 **Email:** [your-email@example.com]  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
-- 📝 **Portfolio/Blog:** [your-portfolio-link.com]  
+- 📧 **Email:** [sathiyamoorthimadhesh@gmail.com]  
+- 💼 **LinkedIn:** [www.linkedin.com/in/sathiyamoorthi-madhesh]  
+
 
 ---
 
