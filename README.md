@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sathiyamoorthi-madhesh&data=repositories,commits&theme=darkmode" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Sathiyamoorthi M</h1>
 <h3 align="center">🚀 Junior Software Developer | MEAN Stack Developer | Open-Source Enthusiast</h3>
 
