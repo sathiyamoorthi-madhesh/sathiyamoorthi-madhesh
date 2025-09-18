@@ -43,6 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sathiyamoorthi-madhesh&show_icons=true&theme=radical" alt="Sathya's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyamoorthi-madhesh&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+![](https://nirzak-streak-stats.vercel.app/?user=sathiyamoorthi-madhesh&theme=dark&hide_border=false)<br/>
 
 ### 🌐 Connect With Me
 <p>
