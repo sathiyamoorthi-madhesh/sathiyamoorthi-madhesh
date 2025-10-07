@@ -18,7 +18,7 @@
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,typescript,html,css,java,git,jest,jenkins,postman" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,javascript,typescript,html,css,tailwindcss,bootstrap,java,git,jest,jenkins,postman" />
 </p>
 
 ---
